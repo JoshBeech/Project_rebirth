@@ -3,6 +3,7 @@
 
 int main()
 {
+	//Git Welcome
 	sf::RenderWindow window(sf::VideoMode(1024, 512), "Project Rebirth");
 
 	SSTATEHANDLER.Intialise_states();
