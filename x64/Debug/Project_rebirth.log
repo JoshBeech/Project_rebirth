@@ -1,0 +1,17 @@
+﻿Build started 15/08/2015 21:47:29.
+     1>Project "C:\Users\Owner\Documents\Personal projects\Project_rebirth\Project_rebirth\Project_rebirth.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I"C:\Users\Owner\Documents\Personal projects\Project_rebirth\Project_rebirth\SFML\include" /Zi /nologo /W3 /WX- /sdl /Od /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt StateHandler.cpp
+         StateHandler.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Owner\Documents\Personal projects\Project_rebirth\x64\Debug\Project_rebirth.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Users\Owner\Documents\Personal projects\Project_rebirth\Project_rebirth\SFML\lib" "sfml-graphics-d.lib" "sfml-window-d.lib" "sfml-system-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Owner\Documents\Personal projects\Project_rebirth\x64\Debug\Project_rebirth.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Owner\Documents\Personal projects\Project_rebirth\x64\Debug\Project_rebirth.lib" /MACHINE:X64 x64\Debug\EndState.obj
+         x64\Debug\main.obj
+         x64\Debug\MenuState.obj
+         x64\Debug\StateHandler.obj
+         x64\Debug\Visualisation.obj
+         Project_rebirth.vcxproj -> C:\Users\Owner\Documents\Personal projects\Project_rebirth\x64\Debug\Project_rebirth.exe
+     1>Done Building Project "C:\Users\Owner\Documents\Personal projects\Project_rebirth\Project_rebirth\Project_rebirth.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.66
